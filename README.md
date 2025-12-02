@@ -1,7 +1,7 @@
 # 🧩 Proyecto Final – Trabajando en la Nube  
-**Carrera:** Ciencias de la Computación  
-**Asignatura:** Trabajando en la Nube (COM610)
-**Docente:** Ing. Marcelo Quispe Ortega
+**Carrera:** Ciencias de la Computación  <br>
+**Asignatura:** Trabajando en la Nube (COM610)<br>
+**Docente:** Ing. Marcelo Quispe Ortega<br>
 **Grupo:**  
 - Integrante 1 – (correo)  
 - Integrante 2 – (correo)  
